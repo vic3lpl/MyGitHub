@@ -3,24 +3,6 @@
     {
       "date": [
         {
-          "@from": "09/16/2018 18:00:00",
-          "@to": "09/17/2018 00:00:00"
-        }
-      ],
-      "message": {
-        "@eng": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
-        "@zht": "Chinese T",
-        "@zhs": "Chinese S"
-      },
-      "title": {
-        "@eng": "System maintenance",
-        "@zht": "Title T",
-        "@zhs": "Title S"
-      }
-    },
-    {
-      "date": [
-        {
           "@from": "10/16/2018 18:00:00",
           "@to": "10/17/2018 00:00:00"
         }
