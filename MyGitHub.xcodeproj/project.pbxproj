@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D62140332178524900BBEAB7 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D62140322178524900BBEAB7 /* SecondViewController.swift */; };
 		D68EB181216D960F0034E0BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68EB180216D960F0034E0BD /* AppDelegate.swift */; };
 		D68EB183216D960F0034E0BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68EB182216D960F0034E0BD /* ViewController.swift */; };
 		D68EB186216D960F0034E0BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D68EB184216D960F0034E0BD /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D62140322178524900BBEAB7 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		D68EB17D216D960F0034E0BD /* MyGitHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyGitHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D68EB180216D960F0034E0BD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D68EB182216D960F0034E0BD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				D68EB187216D96100034E0BD /* Assets.xcassets */,
 				D68EB189216D96100034E0BD /* LaunchScreen.storyboard */,
 				D68EB18C216D96100034E0BD /* Info.plist */,
+				D62140322178524900BBEAB7 /* SecondViewController.swift */,
 			);
 			path = MyGitHub;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D62140332178524900BBEAB7 /* SecondViewController.swift in Sources */,
 				D68EB183216D960F0034E0BD /* ViewController.swift in Sources */,
 				D68EB181216D960F0034E0BD /* AppDelegate.swift in Sources */,
 			);
