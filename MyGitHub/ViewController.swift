@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("My infiniti gihub test");
 
-        print("success merge from dev to master dev");
+        print("success merge from dev to master dev test again");
 
         // Do any additional setup after loading the view, typically from a nib.
     }
