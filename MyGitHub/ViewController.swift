@@ -13,7 +13,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("My infiniti gihub test");
-        print("make conflict with dev");
+
+        print("success merge from dev to master dev");
+
         // Do any additional setup after loading the view, typically from a nib.
     }
 
