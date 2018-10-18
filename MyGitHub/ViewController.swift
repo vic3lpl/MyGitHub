@@ -14,13 +14,16 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("My infiniti gihub test");
 
+
+        print("success merge from dev to master dev test again");
+
         print("success merge from dev to master dev");
-        
+
         print("try again ui conflict");
+
 
         // Do any additional setup after loading the view, typically from a nib.
     }
 
 
 }
-
