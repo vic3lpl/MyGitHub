@@ -19,7 +19,7 @@ class ViewController: UIViewController {
 
         print("success merge from dev to master dev");
 
-        print("try again ui conflict");
+        print("try again ui conflict agdhjfagsd");
 
 
         // Do any additional setup after loading the view, typically from a nib.
