@@ -24,7 +24,7 @@ class ViewController: UIViewController {
 
         if i == 0 {
             i = 1;
-            print("i am dev lai");
+            print("success add in gitignore file");
         }
 
 
