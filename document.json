@@ -9,7 +9,7 @@
       ],
       "message": {
         "@eng": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
-        "@zht": "Chinese T",
+        "@zht": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused. T",
         "@zhs": "Chinese S"
       },
       "title": {
@@ -27,7 +27,7 @@
       ],
       "message": {
         "@eng": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
-        "@zht": "Chinese T",
+        "@zht": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused. T",
         "@zhs": "Chinese S"
       },
       "title": {
@@ -39,13 +39,13 @@
     {
       "date": [
         {
-          "@from": "10/17/2018 20:00:00",
-          "@to": "10/17/2018 20:40:00"
+          "@from": "10/18/2018 16:00:00",
+          "@to": "10/18/2018 16:30:00"
         }
       ],
       "message": {
         "@eng": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
-        "@zht": "Chinese T",
+        "@zht": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused. T",
         "@zhs": "Chinese S"
       },
       "title": {
