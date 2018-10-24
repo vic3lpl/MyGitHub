@@ -3,19 +3,19 @@
     {
       "date": [
         {
-          "@from": "10/23/2018 12:00:00",
-          "@to": "10/23/2018 18:45:00"
+          "@from": "10/24/2018 07:00:00",
+          "@to": "10/24/2018 18:45:00"
         }
       ],
       "message": {
         "@eng": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
-        "@zht": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused. T",
+        "@zht": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
         "@zhs": "Chinese S"
       },
       "title": {
         "@eng": "System maintenance",
-        "@zht": "Title T",
-        "@zhs": "Title S"
+        "@zht": "Title XXX",
+        "@zhs": "Title XXX"
       }
     },
     {
@@ -27,13 +27,13 @@
       ],
       "message": {
         "@eng": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
-        "@zht": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused. T",
+        "@zht": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
         "@zhs": "Chinese S"
       },
       "title": {
         "@eng": "System maintenance",
-        "@zht": "Title T",
-        "@zhs": "Title S"
+        "@zht": "Title XXX",
+        "@zhs": "Title XXX"
       }
     },
     {
@@ -45,13 +45,13 @@
       ],
       "message": {
         "@eng": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
-        "@zht": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused. T",
+        "@zht": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
         "@zhs": "Chinese S"
       },
       "title": {
         "@eng": "System maintenance",
-        "@zht": "Title T",
-        "@zhs": "Title S"
+        "@zht": "Title XXX",
+        "@zhs": "Title XXX"
       }
     }
   ],
