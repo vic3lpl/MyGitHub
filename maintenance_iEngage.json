@@ -7,14 +7,33 @@
 					"@to": "10/25/2018 23:59:00"
 				},
 				{
-					"@from": "10/26/2018 09:00:00",
-					"@to": "10/26/2018 23:59:00"
+					"@from": "10/25/2018 09:00:00",
+					"@to": "10/25/2018 23:59:00"
 				}
 			],
 			"message": {
 					"@eng": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
 					"@zht": "由於進行系統更新工程，暫時未能提供服務，不便之處，敬請原諒。",
 					"@zhs": "由于进行系统更新工程，暫時未能提供服務，不便之处，敬请原谅。"
+			}
+		}
+	],
+	 "stoppage": [
+		{
+			"date": [
+				{
+					"@from": "10/25/2018 00:00:00",
+					"@to": "10/25/2018 23:59:00"
+				},
+				{
+					"@from": "10/26/2018 09:00:00",
+					"@to": "10/26/2018 20:59:00"
+				}
+			],
+			"message": {
+					"@eng": "Due to system maintenance, the service will be temporarily unavailable. Sorry for any inconvenience caused.",
+					"@zht": "由於進行系統更新工程，暫時未能提供服務，不便之處，敬請原諒。2222",
+					"@zhs": "由于进行系统更新工程，暫時未能提供服務，不便之处，敬请原谅。2222"
 			}
 		}
 	]
