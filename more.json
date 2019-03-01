@@ -1,0 +1,1610 @@
+{
+   "meta":{
+      "status":"SUCCESS",
+      "msg":"Success",
+      "code":"200"
+   },
+   "response":{
+      "iAcedemyLoginUrl":"https://www4.aia.com.hk/LMSTrainee/HKAgentAuth/SSOSignIn2",
+      "iRESUrl":"https://www8.aia.com.hk/application/ires/controller?_command_=LoginMobile&at={SESSION_ID}&cc={COURSE_CODE}",
+      "qrCodeWalletCategories":{
+         "T":"培訓課程",
+         "R":"招募活動",
+         "E":"活動",
+         "C":"海外會議"
+      },
+      "version":"v2",
+      "baseUrl":"https://www8.aia.com.hk/iapp/iEngage/api/",
+      "qrCodeWalletFolderUrls":{
+         "iAcademy":"https://www4.aia.com.hk/LMSTrainee/HKIEngage/QRCodeWallet",
+         "iRecruit":"https://www8.aia.com.hk/iapp/irecruit/api/qrcodewallet"
+      },
+      "configVer":1,
+      "filter":{
+         "groups":[
+            {
+               "id":"8ab1edcd589aa2a201589abf34470028",
+               "title":"All Financial Planners 所有財務策劃顧問",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce96e820052",
+               "title":"A FORCE A動力",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e15c8e0157e17b190b3074",
+               "title":"DD 區域總監",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e15c8e0157e17b191b3075",
+               "title":"Future Leaders 精英領袖",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e15c8e0157e17b191b3076",
+               "title":"Leaders 營業單位主管",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce96e7c0050",
+               "title":"MDRT",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce96e8a0054",
+               "title":"PAL 卓越營業單位主管",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce96e8c0055",
+               "title":"PA 財富管理經理",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce96e7f0051",
+               "title":"UP FORCE 升勢力",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce96e870053",
+               "title":"Y CLUB",
+               "nodes":[
+
+               ]
+            }
+         ],
+         "blogs":[
+            {
+               "id":"8af19a9663f9127f0163fbfc9f6200b0",
+               "title":"AIA iShop 友保易",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce72ed8003d",
+               "title":"AIA Premier Academy <br> 友邦精英學院",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad006307c",
+                     "title":"最新資訊及活動",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad015307d",
+                     "title":"面試資料",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad015307e",
+                     "title":"培訓資料",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce72f2a0048",
+               "title":"AIA Vitality <br> 健康程式",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad025307f",
+                     "title":"產品資料",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad0253080",
+                     "title":"推廣優惠",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad0253081",
+                     "title":"年度大獎及銷售支援",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad0343082",
+                     "title":"其他資訊",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8af19a965d079445015d0cbdc365267e",
+               "title":"Agency Admin <br> 營業行政",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb97426b003f",
+               "title":"Agency Business Development<br>營業拓展",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce72ed4003c",
+               "title":"Agency Talent Development <br> 營業優才發展",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad0343083",
+                     "title":"最新資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad0443084",
+                     "title":"招募活動",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad0443085",
+                     "title":"工作坊及培訓",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb97426b003e",
+               "title":"Agency Customer Engagement<br>營業客戶拓展部",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9663fd0edc0163fd732a7b0218",
+               "title":"Agency Strategy<br>營業策略",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce72eda003f",
+               "title":"Best Practice <br> 優質服務文化",
+               "nodes":[
+                  {
+                     "id":"8a809e23569cd7b201569ce72f8e004b",
+                     "title":"手冊及指引",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8a809e23569cd7b201569ce72f8e004c",
+                     "title":"通告",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8a809e23569cd7b201569ce72fa2004d",
+                     "title":"「BP 快報」電子書",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb97426b0040",
+               "title":"Brand & Communications<br>品牌及傳訊",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce72eda003e",
+               "title":"Business & Training Development <br> 營業培訓及發展",
+               "nodes":[
+                  {
+                     "id":"8a809e23569cd7b201569ce72f660049",
+                     "title":"最新資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8a809e23569cd7b201569ce72f8e004a",
+                     "title":"課程指南針",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad0543086",
+                     "title":"CPD及牌照",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce72ec90039",
+               "title":"C Suites <br> 管理層訊息",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad0543087",
+                     "title":"CEO Bulletin",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad0633088",
+                     "title":"CAO Message",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8af19a9663490284016349c0205b01bd",
+               "title":"Corporate Solutions <br> 企業業務",
+               "nodes":[
+                  {
+                     "id":"8af19a9663490284016349c0205b01be",
+                     "title":"企業業務資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9663490284016349c0206b01c0",
+                     "title":"企業業務競賽",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9663490284016349c0207a01c1",
+                     "title":"客戶推廣",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb97427a0041",
+               "title":"Customer Office<br>客戶策略部",
+               "nodes":[
+                  {
+                     "id":"8af19a9665ddd54c0165eb97427a0042",
+                     "title":"銷售機遇",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb97427a0043",
+                     "title":"現有客戶推廣活動及客戶名單",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb97427a0044",
+                     "title":"現有客戶優惠詳情",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb97427a0045",
+                     "title":"助銷工具",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb97428a0046",
+                     "title":"喜氣躍動 Step Up",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb97428a0047",
+               "title":"Information Technology<br>信息科技",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce72f2a0047",
+               "title":"iPoS",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad082308e",
+                     "title":"通告",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad082308f",
+                     "title":"iPoS 資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18ad0923090",
+                     "title":"適用產品一覽",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb97428a0048",
+               "title":"Marketing Campaign<br>最新推廣活動",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb97428a0049",
+               "title":"Outbound Call Centre<br>外撥電話營商中心",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e15c8e0157e180b3b23079",
+               "title":"Premier Agency Development <br> 卓越顧問發展",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e54fc3095",
+                     "title":"MDRT資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e54fc3096",
+                     "title":"UPFORCE資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e550c3097",
+                     "title":"活動一覽",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e550c3098",
+                     "title":"競賽一覽",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8ab1edcd57e15c8e0157e180b3c2307b",
+               "title":"PRC Business <br> 抵港抵澳内地人士業務",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce72f0c0045",
+               "title":"Products <br> 產品策劃",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e552b309d",
+                     "title":"產品最新資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e553a309e",
+                     "title":"市場資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e553a309f",
+                     "title":"投資選擇最新資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e554a30a0",
+                     "title":"PGS建議書系統",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce72ed0003b",
+               "title":"Sales Promotion <br> 業務推廣",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e554a30a1",
+                     "title":"競賽",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e555a30a2",
+                     "title":"海外會議",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e555a30a3",
+                     "title":"會籍及獎賞",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e556930a4",
+                     "title":"Spotlight 友星集",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce72f0c0043",
+               "title":"Services & Operations <br> 營運",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e556930a5",
+                     "title":"核保",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e556930a6",
+                     "title":"保戶服務",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e557930a7",
+                     "title":"賠償",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e557930a8",
+                     "title":"缴費",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce72ecc003a",
+               "title":"Vantage <br> 優勢",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e559830ad",
+                     "title":"公司優勢",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e55a830ae",
+                     "title":"產品賣點",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e55a830af",
+                     "title":"知識寶庫",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e55a830b0",
+                     "title":"對手比較",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e18e55b730b1",
+                     "title":"拆解謬誤",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8af19a965e095478015e12558aa30a32",
+               "title":"「我是誰」",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9664ab1f830164aca0da6e4bd0",
+               "title":"Wealth Management <br> 財富管理",
+               "nodes":[
+                  {
+                     "id":"8af19a9664ab1f830164aca0da6e4bd1",
+                     "title":"市場資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9664ab1f830164aca0da8d4bd3",
+                     "title":"助銷工具",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9664c9d4c60164cf4b88033efd",
+                     "title":"美世(MERCER)",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9664ab1f830164aca0da8d4bd4",
+                     "title":"產品資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9664ab1f830164aca0da9d4bd5",
+                     "title":"營業比賽",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9664ab1f830164aca0daac4bd6",
+                     "title":"活動",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9664c4ad430164c68dab530dcb",
+                     "title":"連繫基金資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9664c9d4c60164cf4b88133efe",
+                     "title":"連繫基金價格",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9664c9d4c60164cf4b88133eff",
+                     "title":"連繫基金表現總覽",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            }
+         ],
+         "categories":[
+            {
+               "id":"8a809e23569cd7b201569ce33eca0028",
+               "title":"產品資訊",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57dfa3f40157dfe6261c111c",
+                     "title":"產品最新資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17993e5306c",
+                     "title":"市場資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17993e5306d",
+                     "title":"投資選擇最新資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17993f5306e",
+                     "title":"PGS建議書系統",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ede002f",
+               "title":"最新推廣活動",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ed0002a",
+               "title":"現有客戶優惠",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ed3002b",
+               "title":"銷售秘笈",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17993f5306f",
+                     "title":"助銷工具",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17994043070",
+                     "title":"喜氣躍動 Step Up",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ed6002c",
+               "title":"營業比賽",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ed9002d",
+               "title":"海外會議資格競賽",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33edc002e",
+               "title":"培訓資訊",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17994143071",
+                     "title":"最新資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17994143072",
+                     "title":"課程指南針",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17994143073",
+                     "title":"CPD及牌照",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ede0030",
+               "title":"優質服務文化",
+               "nodes":[
+                  {
+                     "id":"8a809e23569cd7b201569ce33ee80035",
+                     "title":"手冊及指引",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8a809e23569cd7b201569ce33ef20036",
+                     "title":"通告",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8a809e23569cd7b201569ce33efc0037",
+                     "title":"「BP 快報」電子書",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ede0031",
+               "title":"營業規管",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e15c8e0157e177815f306a",
+               "title":"業界資訊",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e15c8e0157e177815f306b",
+               "title":"營業支援",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd5af00f10015af022b6f10002",
+               "title":"活動照片",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb5b3c300021",
+               "title":"系統通知",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb5b3c400022",
+               "title":"品牌及傳訊",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb5b3c4f0023",
+               "title":"管理層寄語",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb5b3c4f0024",
+               "title":"電子平臺",
+               "nodes":[
+                  {
+                     "id":"8af19a9665ddd54c0165eb5b3c4f0025",
+                     "title":"iPoS",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb5b3c5f0026",
+                     "title":"iMO",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb5b3c5f0027",
+                     "title":"iEngage 「友」幫手",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb5b3c5f0028",
+                     "title":"iChat",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb5b3c7e0029",
+                     "title":"iGift",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8af19a966366dece016366e105a60000",
+               "title":"營業推廣及傳訊",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb5b3c7e002a",
+               "title":"友邦全為您計劃 (SCG)",
+               "nodes":[
+
+               ]
+            }
+         ],
+         "news_filter":[
+            {
+               "id":"8a809e23569cd7b201569ce33eca0028",
+               "title":"產品資訊",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57dfa3f40157dfe6261c111c",
+                     "title":"產品最新資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17993e5306c",
+                     "title":"市場資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17993e5306d",
+                     "title":"投資選擇最新資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17993f5306e",
+                     "title":"PGS建議書系統",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ede002f",
+               "title":"最新推廣活動",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ed0002a",
+               "title":"現有客戶優惠",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ed3002b",
+               "title":"銷售秘笈",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17993f5306f",
+                     "title":"助銷工具",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17994043070",
+                     "title":"喜氣躍動 Step Up",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ed6002c",
+               "title":"營業比賽",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ed9002d",
+               "title":"海外會議資格競賽",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33edc002e",
+               "title":"培訓資訊",
+               "nodes":[
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17994143071",
+                     "title":"最新資訊",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17994143072",
+                     "title":"課程指南針",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8ab1edcd57e15c8e0157e17994143073",
+                     "title":"CPD及牌照",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ede0030",
+               "title":"優質服務文化",
+               "nodes":[
+                  {
+                     "id":"8a809e23569cd7b201569ce33ee80035",
+                     "title":"手冊及指引",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8a809e23569cd7b201569ce33ef20036",
+                     "title":"通告",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8a809e23569cd7b201569ce33efc0037",
+                     "title":"「BP 快報」電子書",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569ce33ede0031",
+               "title":"營業規管",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e15c8e0157e177815f306a",
+               "title":"業界資訊",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e15c8e0157e177815f306b",
+               "title":"營業支援",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd5af00f10015af022b6f10002",
+               "title":"活動照片",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb5b3c300021",
+               "title":"系統通知",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb5b3c400022",
+               "title":"品牌及傳訊",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb5b3c4f0023",
+               "title":"管理層寄語",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb5b3c4f0024",
+               "title":"電子平臺",
+               "nodes":[
+                  {
+                     "id":"8af19a9665ddd54c0165eb5b3c4f0025",
+                     "title":"iPoS",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb5b3c5f0026",
+                     "title":"iMO",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb5b3c5f0027",
+                     "title":"iEngage 「友」幫手",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb5b3c5f0028",
+                     "title":"iChat",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a9665ddd54c0165eb5b3c7e0029",
+                     "title":"iGift",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"8af19a966366dece016366e105a60000",
+               "title":"營業推廣及傳訊",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb5b3c7e002a",
+               "title":"友邦全為您計劃 (SCG)",
+               "nodes":[
+
+               ]
+            }
+         ],
+         "inbox_filter":[
+            {
+               "id":"8af19a965deac3bb015e037920b00afb",
+               "title":"iChat",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569cdbdcb3000f",
+               "title":"營運 - 核保",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569cdbdcb90010",
+               "title":"營運 - 保戶服務",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569cdbdcc20012",
+               "title":"營運 - 保費到期",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569cdbdcca0014",
+               "title":"客戶 - 銷售機遇",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a9665ddd54c0165eb5f539f0034",
+               "title":"客戶 - 推廣活動及客戶名單",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd5b574991015b66eec5127d27",
+               "title":"系統通知",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e4cef40157e563c8581121",
+               "title":"信件",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e4cef40157e563c8681123",
+               "title":"我的業績",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e4cef40157e563c8681122",
+               "title":"報名",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd58483b83015851275bb501d9",
+               "title":"CPD及牌照",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd57e4cef40157e563c8771124",
+               "title":"培訓訊息",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8a809e23569cd7b201569cdbdcd30016",
+               "title":"MPF強積金",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8af19a965e095478015e1255ad9d0a34",
+               "title":"「我是誰」",
+               "nodes":[
+
+               ]
+            }
+         ],
+         "event_filter":[
+            {
+               "id":"8ab1edcd58ce229f0158d34ae3194200",
+               "title":"活動",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd58ce229f0158d34ae3284201",
+               "title":"海外會議",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd58ce229f0158d34ae3384202",
+               "title":"工作坊",
+               "nodes":[
+
+               ]
+            },
+            {
+               "id":"8ab1edcd58ce229f0158d34ae3384203",
+               "title":"培訓課程",
+               "nodes":[
+
+               ]
+            }
+         ],
+         "opsclient_filter":[
+            {
+               "id":"94ad5e8c83ca4bd3868cf1422705bca0",
+               "title":"營運",
+               "nodes":[
+                  {
+                     "id":"8af19a965f57daa0015f57f79ba50082",
+                     "title":"新單",
+                     "nodes":[
+                        {
+                           "id":"8af19a965fc7a97d015fc8dd63940810",
+                           "title":"核保",
+                           "nodes":[
+
+                           ]
+                        },
+                        {
+                           "id":"8af19a965fc7a97d015fc965173c0bdc",
+                           "title":"6分鐘核保結果",
+                           "nodes":[
+
+                           ]
+                        },
+                        {
+                           "id":"8af19a965fc7a97d015fc965173c0bdd",
+                           "title":"電子保單合約服務",
+                           "nodes":[
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "id":"8af19a965f9932c7015f99b1133b0120",
+                     "title":"保戶服務",
+                     "nodes":[
+                        {
+                           "id":"8af19a965fdd3153015fdd6cec89008e",
+                           "title":"退保",
+                           "nodes":[
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "id":"8af19a965fc7a97d015fc965175b0be3",
+                     "title":"電子理賠",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"ad9cf9da8b6b443aa413e55c92054f38",
+               "title":"客戶",
+               "nodes":[
+                  {
+                     "id":"8af19a9660fa2292016102104bf00e9e",
+                     "title":"Day Day Connect",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a965f57daa0015f57f79bb40083",
+                     "title":"銷售機遇",
+                     "nodes":[
+                        {
+                           "id":"8af19a965fc7a97d015fc966f3a40be6",
+                           "title":"友邦全為您",
+                           "nodes":[
+
+                           ]
+                        },
+                        {
+                           "id":"8af19a965fc7a97d015fc966f3a40be7",
+                           "title":"e-Commerce",
+                           "nodes":[
+
+                           ]
+                        },
+                        {
+                           "id":"8af19a9665ddd54c0165eba21140005c",
+                           "title":"e-Wallet",
+                           "nodes":[
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "id":"8af19a965f9932c7015f99b17c780124",
+                     "title":"推廣活動",
+                     "nodes":[
+                        {
+                           "id":"8af19a965fc7a97d015fc966f3b30be9",
+                           "title":"推廣活動及客户名單",
+                           "nodes":[
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "id":"8af19a965f9932c7015f99b17c780125",
+                     "title":"iGift服務",
+                     "nodes":[
+
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"c98a5b48ede84d68b643a853abda0437",
+               "title":"服務",
+               "nodes":[
+                  {
+                     "id":"8af19a9666a0a7f90166a4e30cc20086",
+                     "title":"獎賞",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a965fc3c06c015fc465b5e505fc",
+                     "title":"友邦財駿中心預約",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a965fc3c06c015fc465b5e505fb",
+                     "title":"服務跟進",
+                     "nodes":[
+
+                     ]
+                  },
+                  {
+                     "id":"8af19a965f57daa0015f57f79bb40084",
+                     "title":"客戶資訊副本",
+                     "nodes":[
+                        {
+                           "id":"8af19a965fdd3153015fdd6e4c25008f",
+                           "title":"AIA Connect",
+                           "nodes":[
+
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      "iAcedemyUrl":"",
+      "search":"",
+      "force_update":{
+         "enable":true,
+         "update_mode":"F",
+         "android_url":"https://aiauat.appgreen.com/AIA-iEngage.html",
+         "ios_url":"itms-services://?action=download-manifest&url=https://aiauat.appgreen.com/iEngage/AIA-iEngage.plist",
+         "message":"請下載最新版本!",
+         "android_build_version":"1256",
+         "ios_build_version":"1256"
+      },
+      "toolboxList":[
+         {
+            "displayOrder":"1",
+            "id":"EC0EAA90AA4148DA86E639E426357653",
+            "titleTc":"兌換率",
+            "deepLink":"iengage://webview?link=http://www.aia.com.hk/zh-hk/help-and-support/individuals/exchange-rates.html",
+            "deepLinkType":"EXTERNAL_LINK",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/EC0EAA90AA4148DA86E639E426357653/1515484587803"
+         },
+         {
+            "displayOrder":"2",
+            "id":"FF0ACABC44D14678AC56A33178C76A3E",
+            "titleTc":"驗身醫生名單",
+            "deepLink":"iengage://app_sso?appId=imes&link=https://www8.aia.com.hk/application/IMES/login?show_menu_bar=true&access_token={GU_SessionID}&language={GU_lang1}",
+            "deepLinkType":"APP_SSO",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/FF0ACABC44D14678AC56A33178C76A3E/1515484587770"
+         },
+         {
+            "displayOrder":"3",
+            "id":"E1B44CAF9E634C99BE4EFC000698731C",
+            "titleTc":"營業員專頁",
+            "deepLink":"iengage://eac?link=https://www8.aia.com.hk/agency/home.do",
+            "deepLinkType":"EAC",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/E1B44CAF9E634C99BE4EFC000698731C/1515484587757"
+         },
+         {
+            "displayOrder":"4",
+            "id":"3A94038BDA5740B4A45B0D28330660FA",
+            "titleTc":"保費易",
+            "deepLink":"iengage://app_sso?appId=webepc&link=https://www4.aia.com.hk/EPC/login?access_token={GU_SessionID}&language={GU_lang1}&show_menu_bar=true",
+            "deepLinkType":"APP_SSO",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/3A94038BDA5740B4A45B0D28330660FA/1515484587803"
+         },
+         {
+            "functionLink":"https://uat.ichat-aia.com/api/v1/mobile/conversation",
+            "authorizationCode":"ce09fc599ea4ezc42560c00ab1820199",
+            "id":"98C92BBF413549689CAE43BDCFD6D161",
+            "deepLinkType":"CHATBOT",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/98C92BBF413549689CAE43BDCFD6D161/1515484587707",
+            "deepLink":"iengage://chatbot?",
+            "displayOrder":"6",
+            "chatbotTimestampLink":"https://uat.ichat-aia.com/api/v1/mobile/getServerTime",
+            "titleTc":"iChat"
+         },
+         {
+            "displayOrder":"7",
+            "id":"F43D888C4895420AB837236770CFA313",
+            "titleTc":"iGift",
+            "deepLink":"iengage://app_sso?appId=iGift&nativeBrowser=1&link=https://www8.aia.com.hk/igs/agent.html?agent_code={GU_AgtCode}&access_code={GU_SessionID}&lang={GU_lang2}",
+            "deepLinkType":"APP_SSO",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/F43D888C4895420AB837236770CFA313/1515484587833"
+         },
+         {
+            "displayOrder":"8",
+            "id":"AEF2B3D515A442F59B93F256C8DFE11A",
+            "titleTc":"iBooking System",
+            "deepLink":"iengage://app_sso?appId=QMS&nativeBrowser=1&link=https://www8.aia.com.hk/ibs/agent.html?access_code={GU_SessionID}&agent_code={GU_AgtCode}&lang={GU_lang2}",
+            "deepLinkType":"APP_SSO",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/AEF2B3D515A442F59B93F256C8DFE11A/1515484587803"
+         },
+         {
+            "displayOrder":"9",
+            "id":"3D30568227014DAF831275A0F573CC67",
+            "titleTc":"公司網站",
+            "deepLink":"iengage://webview?link=http://www.aia.com.hk/zh-hk/index.html",
+            "deepLinkType":"EXTERNAL_LINK",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/3D30568227014DAF831275A0F573CC67/1515484587803"
+         },
+         {
+            "displayOrder":"10",
+            "id":"2AD6176EFBC64847ADDF64E102F275F2",
+            "titleTc":"Spotlight",
+            "deepLink":"iengage://webview?link=http://www.hdtree.com/client/AIA/aia_spotlight_sep-nov2017/index.html",
+            "deepLinkType":"EXTERNAL_LINK",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/2AD6176EFBC64847ADDF64E102F275F2/1517454959097"
+         },
+         {
+            "displayOrder":"11",
+            "id":"8E1C55D53FF846188BD66765916FC630",
+            "titleTc":"獎賞",
+            "deepLink":"iengage://app_sso?appId=iReward&nativeBrowser=1&link=https://www8.aia.com.hk/irw/agent.html?appId=iReward&access_code={GU_SessionID}&agent_code={GU_AgtCode}&lang={GU_lang2}",
+            "deepLinkType":"APP_SSO",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/8E1C55D53FF846188BD66765916FC630/1542617538793"
+         },
+         {
+            "displayOrder":"12",
+            "id":"7FD85D336DBD471EBE497CAD11569BB0",
+            "titleTc":"財策顧問相片庫",
+            "deepLink":"iengage://app_sso?appId=photolib&nativeBrowser=1&link=https://wwwuat2.aia.com.hk/en/customer-corner/APL/index.app.html?SID={GU_SessionID}",
+            "deepLinkType":"APP_SSO",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/7FD85D336DBD471EBE497CAD11569BB0/1529048099353"
+         },
+         {
+            "displayOrder":"13",
+            "id":"A3B58D91480A42F49729765359E0D632",
+            "titleTc":"佣金報表",
+            "deepLink":"iengage://eac?link=https://www8.aia.com.hk/agency/production/erpAgtstmt.do",
+            "deepLinkType":"EAC",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/A3B58D91480A42F49729765359E0D632/1543395760000"
+         },
+         {
+            "displayOrder":"15",
+            "id":"5920D5434BEE4EB2BA00B2C096CBB476",
+            "titleTc":"Live Webcast",
+            "deepLink":"iengage://webview?link=https://aia-event-file.hermeslive.com.cn/demo.html",
+            "deepLinkType":"EXTERNAL_LINK",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/5920D5434BEE4EB2BA00B2C096CBB476/1547621669370"
+         },
+         {
+            "displayOrder":"17",
+            "id":"84C6BCC552C746EDAE65174F2998E15C",
+            "titleTc":"網絡播放",
+            "deepLink":"iengage://app_sso?appId=webcast&link=https://www4.aia.com.hk/webcast/login?access_token={GU_SessionID}",
+            "deepLinkType":"APP_SSO",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/84C6BCC552C746EDAE65174F2998E15C/1548440883033"
+         },
+         {
+            "displayOrder":"18",
+            "id":"72A23DCCB908420EBF670A2099CE0495",
+            "titleTc":"Live (Nova-Webpage)",
+            "deepLink":"iengage://webview?link=http://novacast.nova.hk/events/aia2019_demo/index",
+            "deepLinkType":"EXTERNAL_LINK",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/72A23DCCB908420EBF670A2099CE0495/1547621669370"
+         },
+         {
+            "displayOrder":"19",
+            "id":"8967FF4F156F470DB4A1F2CCCAEA43D4",
+            "titleTc":"Live (Nova-Oversea)",
+            "deepLink":"iengage://webview?link=https://d2iicsfeaual4b.cloudfront.net/livehttporigin/ngrp:streamName_all/playlist.m3u8",
+            "deepLinkType":"EXTERNAL_LINK",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/8967FF4F156F470DB4A1F2CCCAEA43D4/1547621669370"
+         },
+         {
+            "displayOrder":"20",
+            "id":"70EB401CA77147DDBB76ED04921E13B1",
+            "titleTc":"Live (Nova-China)",
+            "deepLink":"iengage://webview?link=http://play.adaptlink.com.cn/live/stream_name/playlist.m3u8",
+            "deepLinkType":"EXTERNAL_LINK",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/70EB401CA77147DDBB76ED04921E13B1/1547621669370"
+         },
+         {
+            "displayOrder":"21",
+            "id":"1ED118FE99464E90837B76046DBDF884",
+            "titleTc":"Live (Webstream)",
+            "deepLink":"iengage://webview?link=https://webstreamlive.com/aia/demo/220219/",
+            "deepLinkType":"EXTERNAL_LINK",
+            "link":"https://www8.aia.com.hk/iapp/iEngage/api/media/icon/1ED118FE99464E90837B76046DBDF884/1547621669370"
+         }
+      ],
+      "toppostLabel":"最HIT消息"
+   }
+}
