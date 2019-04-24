@@ -1,28 +1,28 @@
 {
    "CountryList":[
       {
-         "Result":"True",
-         "CountryName":"AFGHANISTAN"
+         "result":"True",
+         "name":"AFGHANISTAN"
       },
       {
-         "Result":"True",
-         "CountryName":"ALAND ISLANDS"
+         "result":"True",
+         "name":"ALAND ISLANDS"
       },
       {
-         "Result":"True",
-         "CountryName":"ALBANIA"
+         "result":"True",
+         "name":"ALBANIA"
       },
       {
-         "Result":"True",
-         "CountryName":"ALGERIA"
+         "result":"True",
+         "name":"ALGERIA"
       },
       {
-         "Result":"True",
-         "CountryName":"AMERICAN SAMOA"
+         "result":"True",
+         "name":"AMERICAN SAMOA"
       },
       {
-         "Result":"True",
-         "CountryName":"ANDORRA"
+         "result":"True",
+         "name":"ANDORRA"
       }
    ]
 }
