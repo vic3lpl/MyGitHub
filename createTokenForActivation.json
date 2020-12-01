@@ -1,0 +1,57 @@
+{
+  "result": {
+    "tokenInfoBean": {
+      "serialNum": 12345678,
+      "vendor": "OATH",
+      "model": "OATH",
+      "assignedUserUUIDs": [
+        null
+      ],
+      "assignedUserIds": [
+        null
+      ],
+      "UUID": "string",
+      "version": 0
+    },
+    "encryptedSeeds": {
+      "APP02": "string",
+      "APP01": "string"
+    },
+    "specs": {
+      "APP02": {
+        "authMode": "CR",
+        "algorithm": "o",
+        "suite": "OCRA-1:HOTP-SHA256-6:QA4-T5S",
+        "responseFormatLength": 0,
+        "timeInterval": 5,
+        "time": 0,
+        "timeDrift": 0,
+        "counter": 0,
+        "version": 0
+      },
+      "APP01": {
+        "authMode": "OTP",
+        "algorithm": "t",
+        "suite": "HmacSHA256",
+        "responseFormatLength": 6,
+        "timeInterval": 5,
+        "time": 0,
+        "timeDrift": 0,
+        "counter": 0,
+        "version": 0
+      }
+    },
+    "activationPassword": "string",
+    "userDevice": {
+      "UUID": "string",
+      "status": "string",
+      "type": "string",
+      "id": "string",
+      "agent": "string",
+      "desc": "string",
+      "createdTime": 0,
+      "adminModifier": "string",
+      "adminModifiedTime": 0
+    }
+  }
+}
