@@ -1,1 +1,68 @@
-{"status":"COMPLETED","object":{"meta":{"code":"200","status":"SUCCESS","msg":"Success"},"result":{"status":true,"tokenInfoBean":{"serialNum":"543980166175","vendor":"OATH","model":"OATH","assignedUserUUIDs":["bmI_BOc-vc"],"assignedUserIds":["HKAGENT77771"],"version":1,"uuid":"-neB2mFWj9"},"encryptedSeeds":{"totp":"ZfsAW_7tuX7RWRBLcri7jQ==:9523e8c1c3f57f112eade77e1b63f743cd8cac4a43b0eec6e46f52b18529e5ac:8e9b35da1764d6c30fe10382ebbf2f38d51747d7d61c3ee46dc57525286ea7add853bb63aa957c5ac0e6ce9d0ea66cfe646c60f0145b6ee7b32196c471c9634e943c100af48a1c040deb31212447d8e0f636980604c4341d932625389083cac9e074a69cf5c67eea0433dfdaf01a8c847b5cebc950e1e050c5854dac7e5bfdb06efe430ab4fc1dbeebf536d50f590dc2790a3c4786a9829fd014cec289872de38122e6983825a161dc864ab6e6d0e66490d0d06fb7d12c68ab0aa47b805a3620c1015e447bea63f269fdf8e96e60be2bf18e8cc776f54dc1f4a745ba3f010688353834de860c122dd075a60a8867a5553af2e89f259c6fe4d0bfcaed609822b16f8536a2a50cf008c9f42c67f31472698fa57440f906497d2d8cadf9b95fceae61cd7271d37135de44d4f5614c8be6cb5073ee8eac6a7dc15439aca04d55bb233e7035d8bf796e538a4c92a4656a9309c869f8d3270b1f672c2d16999e1ce7155fe2a4bbdb8794217ee9b440f0b20a86ec3c3fec56de921d5ddfa007e8c7802257681e68898c39db4735b369ec937321327cc93e1da8f1a18afa4c7126ec7e7f1a28ffb50580cad57a980653819331076f80bb46e410acf4ed0de02003d18625adbed13d59e58d05ba7f95006914af9c91798e0b77a6ffd4d10221860d8ff8ba0698e7043229090bdaed1be125a26de1d438b9f2c5ffd2a56cbdcd952dfe49a172821f232454719735e16fcb2ca05e1aff15a8ee05fd4e57b73d86d3588a7a78d3b3fe64316dedf46e23ca98d90fcd37","ocra":"ZfsAW_7tuX7RWRBLcri7jQ==:9523e8c1c3f57f112eade77e1b63f743cd8cac4a43b0eec6e46f52b18529e5ac:8e9b35da1764d6c30fe10382ebbf2f38d51747d7d61c3ee46dc57525286ea7ad6854898926070598d875a80b0e20957262922e861ade4507fe5ebaaf71c5e68315c85e8f5181ee72e8608827d96547c9e1bf1b4f458741bae328618361bb66eade5ec5ac82e514732d20a691ce16717788ead812e7d9c2b5273502c93e6139958207ef2fb3429a290b93e44dab5af29b85c1c0a5a64ccb0f5a178e520b32feb6d4f9a780b78801483aa3551d9ef01b46e9f638843ca2e0117cc3c085099f36ca45230e4f682823d179a0b8fc7f57026e223fabbfb920159774fa8c5711b0a6a7c66329abdb4f5d1001e5d17fbdbc61e25d123f0f0eae84c083b0626fe6b2b6702f6e5174d4bdaedcd5226187f473639081153748b27f14d452ff371cc8f7f47a0da1b45045eaa5a42169a27d5921acc91ad4a91f1fa8a1ab3dfdd9ad5474d7ba8ced55c2cdc3bf13252901101a575f83d42382843b72209f1ca8b61d67c94158357faab527c1fb866986c8bc013214dc1edc3508097f8d8d40a84865b97831043c152321b793167224e36cf9059993fb071755fdfbba021022c0cda936697916f03ceec93ad73b56de005326b88fe71ca424e6988036a4bd5c7360ec8bca03b28d366be306759b0f2719079806080f98e17787e7ac09600b8d5b0be07373b25fefa61eedfeb58bd80a9987c4b8b86d07f88aa1def1b20ff48174e909c0e941d43583331899969479916754cff8eb4fa2090f76830fd26424084ba9fe56660e4bf0e2c7c8b742d90743be17e8ae6132b7"},"specs":{"totp":{"authMode":"OTP","algorithm":"t","suite":"HmacSHA256","responseFormatLength":6,"timeInterval":1800,"time":0,"timeDrift":0,"counter":0,"version":0},"ocra":{"authMode":"CR","algorithm":"o","suite":"OCRA-1:HOTP-SHA256-6:QA4-T5S","responseFormatLength":0,"timeInterval":5,"time":0,"timeDrift":0,"counter":0,"version":0}},"activationPassword":"815212","userDevice":{"status":"Activated","type":"iOS","id":"117f8beabb3de03a","agent":"iPhone 12","desc":"My iPhone 12","createdTime":1609057882082,"adminModifier":"x9yRayPmBA","adminModifiedTime":1610522919994,"uuid":"7CoDUFcP9AFYvhZM"}}},"createdate":0,"lastModifydate":0}
+{
+    "status": "COMPLETED",
+    "object": {
+        "meta": {
+            "code": "200",
+            "status": "SUCCESS",
+            "msg": "Success"
+        },
+        "result": {
+            "status": true,
+            "tokenInfoBean": {
+                "serialNum": "483267417580",
+                "vendor": "OATH",
+                "model": "OATH",
+                "assignedUserUUIDs": [
+                    "VkLZ-Mc8a4"
+                ],
+                "assignedUserIds": [
+                    "HKAGENT90007"
+                ],
+                "version": 1,
+                "uuid": "qrc5hqFYmn"
+            },
+            "encryptedSeeds": {
+                "totp": "Tn-kjtUTxY0fMoSHlV4nfg==:02b34b5588d9a046d78440ff44835734542d0e235986d3c19714a5c1a05cf124:01bcb0409ba2b3450e3be34df1f9d6db87d3260c6678c337c16d577a82143f9c1ae7dc72e394ed3c4b3921acf7c6f1e6f0d7bbe0092d12f5a10ea3c2ef951190038391e4ec7d244e5a7c4f3166876aed3ed6509041761ddc57c064a364a4882688aadac20afc6fc7cdf6ac5574edc3705e3cf1be7c77cbf8484caf5d7a08b1ca2f71e5149cb3c51e5fd49ffd32071dfa6dbc45b3c752f1d39ffa002d18cdf24bc2936f62465ffa99c95d056df6c8ddc69093abd9bb007c857ad7d32631528cfd48938f3d5dc1d8d94a8a792dd74d8d021d230ce81d3dd86878ff0b60cf4c4ba07e3e980937ef4e9076a87a70bf8981e4245e85471b018ed25ee295726528eabdc1334ab54e215d557cecc127831421aff4b37691b3c71bbf0f9e38f0a7e13022a6207bd8d6e2011d3e0025e0b41713ebfe6a5348dab88d26708b04b2b3d886ae3e5cd61f1a1b4389f8c4a19d34be203998e47b28bff13be7fd726e2d763a9af07a6da1480fba5c632c4c11b725b70cd623f514aa21c68c14f5479cbf4ea01b4ad04c3777ed0bfa022a0ecd879ecc1e8352c82104fd3ac8add48fbf4c7ef1f78d9f3bbbb44579d1dde735693781b161a45b0dcc8e9280ab8cdf5aaf7b587bd07545e69afbf033c5e702e7e72c5a6633e0566fe7fb0309ad64de39f2b1a58be3c6b7df417d13d81530806a6b340b4a26621e49a8728e6a97d9cc2d21e5701b574091ca830ffc06a3e9c38e359d6d589f86813e954901193220d6c50d051e4cb586997448e531c7cea1f8b0e273d8d23cfa",
+                "ocra": "Tn-kjtUTxY0fMoSHlV4nfg==:02b34b5588d9a046d78440ff44835734542d0e235986d3c19714a5c1a05cf124:01bcb0409ba2b3450e3be34df1f9d6db87d3260c6678c337c16d577a82143f9c159b67a329fdb304a7f2b4676b88b1d94100d43f3f15a8e0c8ac62262b7cc97003fe96f7045fcbb24df4bb2ba5d5ba371fd4c1fbe23de41fa79a76494dcba6dcbc1ad92876a894c0281b8d22b1e2d4369ad73fcd54bdafc6f0d5854e1536ca95cf1f038f1251ab737d497fc99e537a149ca105db970d0b976b0d73025a80457a25adaef1a4e8fdfc5f87624d67624c2cdc93df8b580801d128ceec67977f1f269d12b60a449f045ef4aa11362730df9c0f8bc488b16b2051fe9c9b00ccce20326382c3100af220c85271556769720b5dada29a7adb0065b27c941b5b74c8d062b2efd0d46fdd997f1226be2221002a5aeff4a1794da4061d9e93be731fdf739a11400cd45da255c3b554cbab98b2ad917293c2652f631a6986e104f49e3ce9cd77a6e180264880aeffef1c4f7ee9644ab662081d4af3178b584281b5fba35a24ff9bbabd050761a46f1d21db9dc6476e1d563a1fb1a74736cf997df2f76b17de8d10655f0e2234dd3d38c3d52eb7869f52fb862e3a3c4a4e826eaaefb03c2e483161b30181d637178fbfb278e17e2229d5f2f57bbb70c8bdfb91d137231b1194f98eac46aeb57b5896c63c00a94786c2ff1f8e73ff58a6e55f169a9600d414144651422792e67e7e7e5265985fd05071ec7c18ebd5ee657f288e78c04049937b35d3d89f32b9bd969dc2b147505672a04212ede47d6dcb48a2f741415be8f335393feac8431db8a8a59337b38334b30f"
+            },
+            "specs": {
+                "totp": {
+                    "authMode": "OTP",
+                    "algorithm": "t",
+                    "suite": "HmacSHA256",
+                    "responseFormatLength": 6,
+                    "timeInterval": 1800,
+                    "time": 0,
+                    "timeDrift": 0,
+                    "counter": 0,
+                    "version": 0
+                },
+                "ocra": {
+                    "authMode": "CR",
+                    "algorithm": "o",
+                    "suite": "OCRA-1:HOTP-SHA256-6:QA4-T5S",
+                    "responseFormatLength": 0,
+                    "timeInterval": 5,
+                    "time": 0,
+                    "timeDrift": 0,
+                    "counter": 0,
+                    "version": 0
+                }
+            },
+            "activationPassword": "199307",
+            "userDevice": {
+                "status": "Activated",
+                "type": "iOS",
+                "id": "117f8beabb3de03a",
+                "agent": "iPhone 12",
+                "desc": "My iPhone 12",
+                "createdTime": 1609057882082,
+                "adminModifier": "x9yRayPmBA",
+                "adminModifiedTime": 1610522919994,
+                "uuid": "7CoDUFcP9AFYvhZM"
+            }
+        }
+    },
+    "createdate": 0,
+    "lastModifydate": 0
+}
