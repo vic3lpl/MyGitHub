@@ -49,18 +49,7 @@
                 }
             },
             "version":0,
-            "activationPassword": "705673",
-            "userDevice": {
-                "status": "Activated",
-                "type": "iOS",
-                "id": "117f8beabb3de03a",
-                "agent": "iPhone 12",
-                "desc": "My iPhone 12",
-                "createdTime": 1609057882082,
-                "adminModifier": "x9yRayPmBA",
-                "adminModifiedTime": 1610522919994,
-                "UUID": "7CoDUFcP9AFYvhZM"
-            }
+            "activationPassword": "705673"
         }
     },
     "createdate": 0,
