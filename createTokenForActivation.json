@@ -7,7 +7,6 @@
             "msg": "Success"
         },
         "result": {
-            "status": true,
             "tokenInfoBean": {
                 "serialNum": "304412122769",
                 "vendor": "OATH",
